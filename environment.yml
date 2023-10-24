@@ -1,0 +1,14 @@
+name: flat10
+channels:
+  - chrisroadmap
+  - conda-forge
+dependencies:
+  - fair==2.1.2
+  - jupyter
+  - nbstripout
+  - matplotlib
+  - numpy
+  - pandas
+  - pooch
+  - scipy
+  - tqdm
