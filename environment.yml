@@ -10,5 +10,7 @@ dependencies:
   - numpy
   - pandas
   - pooch
+  - seaborn
   - scipy
   - tqdm
+  - xarray

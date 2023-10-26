@@ -1,6 +1,9 @@
 # OS junk
 *.DS_Store
 
+# big netcdf
+output/*.nc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
