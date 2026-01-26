@@ -1,9 +1,13 @@
+# don't commit notebooks
+*.ipynb
+
 # OS junk
 *.DS_Store
 
 # big outputs
 output/*.nc
 output/*.pkl
+output/flatX
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
